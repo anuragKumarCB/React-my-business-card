@@ -3,6 +3,7 @@
 body {
   margin: 0;
   padding: 0;
+  min-height: 100vh;
   background-color: #23252c;
   font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -19,5 +20,4 @@ body {
   background-color: #1a1b21;
   color: white;
   border-radius: 6px;
-  margin-top: 5vh;
 }
